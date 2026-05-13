@@ -9,14 +9,12 @@ cv:
   social_networks:
     - network: GitHub
       username: fredc0088
-      url: https://github.com/fredc0088
     - network: LinkedIn
       username: fcocco
-      url: https://www.linkedin.com/in/fcocco/
 
   address:
     city: London
-    countryCode: UK
+    country: United Kingdom
 
   sections:
     Education:
