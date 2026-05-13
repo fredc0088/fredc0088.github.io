@@ -7,14 +7,14 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/federicococco.github.io/";
     },
   },{id: "nav-projects",
           title: "projects",
           description: "A selection of my professional and personal projects, ranging from distributed systems to NLP tools.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/federicococco.github.io/projects/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -42,18 +42,18 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/federicococco.github.io/books/the_godfather/";
             },},{id: "projects-intelligent-documents-organiser-platform",
           title: 'Intelligent Documents Organiser Platform',
           description: "A Scala-based NLP desktop application for intelligent document management and text mining.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/nlp_platform/";
+              window.location.href = "/federicococco.github.io/projects/nlp_platform/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/federicococco.github.io/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -74,7 +74,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/federicococco.github.io/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
