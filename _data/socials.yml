@@ -1,0 +1,9 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/rendercv/rendercv_output/FEDERICO_COCCO_CV.pdf # path to your CV PDF file
+email: federicocdev@gmail.com # your email address
+linkedin_username: fcocco
+github_username: fredc0088
+gitlab_username: federico.cocco
+wikipedia_id: Feelingfuzzy

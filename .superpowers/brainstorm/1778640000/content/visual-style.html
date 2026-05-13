@@ -1,0 +1,67 @@
+<h2>Choose Your Professional Style</h2>
+<p class="subtitle">Which visual direction best represents your professional brand?</p>
+
+<div class="options">
+  <div class="option" data-choice="minimalist" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Minimalist & Clean</h3>
+      <p>Focuses on high-quality typography and whitespace. Ideal for a sophisticated, "less is more" developer brand.</p>
+      <div class="mockup" style="margin-top: 10px; height: 100px; background: #fff; border: 1px solid #eee; padding: 10px">
+        <div style="width: 40%; height: 8px; background: #333; margin-bottom: 8px"></div>
+        <div style="width: 100%; height: 4px; background: #f0f0f0; margin-bottom: 4px"></div>
+        <div style="width: 100%; height: 4px; background: #f0f0f0; margin-bottom: 4px"></div>
+        <div style="width: 80%; height: 4px; background: #f0f0f0"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="academic" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Academic & Formal</h3>
+      <p>Structured layout with a clear sidebar or top navigation. Emphasizes your credentials and detailed project history.</p>
+      <div class="mockup" style="margin-top: 10px; height: 100px; background: #f8f9fa; border: 1px solid #ddd; display: flex">
+        <div style="width: 30%; height: 100%; background: #e9ecef; border-right: 1px solid #ddd; padding: 5px">
+          <div style="width: 80%; height: 4px; background: #adb5bd; margin-bottom: 4px"></div>
+          <div style="width: 60%; height: 4px; background: #adb5bd"></div>
+        </div>
+        <div style="flex: 1; padding: 10px">
+          <div style="width: 60%; height: 6px; background: #495057; margin-bottom: 8px"></div>
+          <div style="width: 100%; height: 3px; background: #dee2e6; margin-bottom: 3px"></div>
+          <div style="width: 100%; height: 3px; background: #dee2e6"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="modern" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Modern & Bold</h3>
+      <p>Uses cards, shadows, and subtle animations. A dynamic look that highlights your technical versatility and modern stack.</p>
+      <div
+        class="mockup"
+        style="
+          margin-top: 10px;
+          height: 100px;
+          background: #fff;
+          border: 1px solid #eee;
+          padding: 10px;
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 8px;
+        "
+      >
+        <div style="background: #fff; border: 1px solid #eee; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05)">
+          <div style="width: 100%; height: 20px; background: #e0e0e0; margin-bottom: 4px"></div>
+          <div style="width: 60%; height: 4px; background: #eee"></div>
+        </div>
+        <div style="background: #fff; border: 1px solid #eee; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05)">
+          <div style="width: 100%; height: 20px; background: #e0e0e0; margin-bottom: 4px"></div>
+          <div style="width: 60%; height: 4px; background: #eee"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

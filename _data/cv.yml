@@ -1,0 +1,96 @@
+cv:
+  name: Federico Cocco
+  label: Senior Software Engineer
+  email: federicocdev@gmail.com
+  location: London, UK
+  image: ""
+  summary: Senior Software Engineer with over seven years of experience architecting high-performance backend systems, specializing in the Scala/JVM ecosystem and functional programming.
+
+  social_networks:
+    - network: GitHub
+      username: fredc0088
+      url: https://github.com/fredc0088
+    - network: LinkedIn
+      username: fcocco
+      url: https://www.linkedin.com/in/fcocco/
+
+  address:
+    city: London
+    countryCode: UK
+
+  sections:
+    Education:
+      - institution: Birkbeck College, University of London
+        location: London, UK
+        area: Computing
+        studyType: BSc (Hons)
+        start_date: 2015
+        end_date: 2018
+        score: "1st Class"
+        highlights:
+          - Software and Programming (Java, Scala, JavaScript and PHP)
+          - Algorithm and Data Structures
+          - Networks, Information Security, Website Design
+          - Database Management, IT laws, Machine learning and AI basic theory
+          - "Final Project: Intelligent Documents Organiser Platform"
+
+    Experience:
+      - company: The Walt Disney Company
+        position: Software Engineer (Backend, Scala)
+        location: London, UK
+        start_date: 2022-09
+        end_date: present
+        highlights:
+          - Led technical delivery of OIDC Provider service, including entitlement distribution and PII protection.
+          - Drove migration of core account services to modern functional Scala stacks (Http4s, Circe).
+          - Designed reactive, event-driven solutions for compliance data deletion.
+          - Refactored Terraform modules into reusable components for streamlined infrastructure.
+
+      - company: Sainsbury's
+        position: Software Engineer (Backend, Scala)
+        location: London, UK
+        start_date: 2020-08
+        end_date: 2022-08
+        highlights:
+          - Developed Pricing systems for group-wide metadata delivery using functional programming.
+          - Created framework of reusable components for multi-services development and deployment.
+
+      - company: BBC
+        position: Software Engineer (Backend)
+        location: London, UK
+        start_date: 2018-07
+        end_date: 2020-08
+        highlights:
+          - Built and maintained the BBC Sounds app backend serving millions of users.
+          - Developed reliable Scala microservices using Akka and Docker.
+          - Implemented robust infrastructures in AWS, including Java-based Lambdas.
+
+      - company: Ticketmaster
+        position: DevOps & Software Engineer (Internship)
+        location: London, UK
+        start_date: 2016-09
+        end_date: 2017-12
+        highlights:
+          - Developed testing coverage dashboards with React, Node, and F#.
+          - Managed Windows server infrastructure and AWS migration initiatives.
+          - Automated transaction processes and database queries using PowerShell.
+
+    Skills:
+      - name: Backend & Functional Programming
+        icon: fa-solid fa-code
+        keywords: "Scala, Cats Effect, ZIO, Akka, FS2, Java, F#"
+      - name: Infrastructure & Cloud
+        icon: fa-solid fa-cloud
+        keywords: "AWS (Lambda, Kinesis, DynamoDB), Terraform, Kubernetes, Docker, Kafka"
+
+    Languages:
+      - name: English
+        summary: "Fluent"
+      - name: Italian
+        summary: "Native"
+
+    Projects:
+      - name: Intelligent Documents Organiser Platform
+        summary: First-class honors project built in Scala focusing on Natural Language Processing (NLP) and Text Mining.
+        start_date: 2018
+        end_date: 2018
