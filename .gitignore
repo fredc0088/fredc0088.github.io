@@ -13,3 +13,11 @@ assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+
+# Tool metadata and local environment folders
+.gemini/
+.superpowers/
+"%APPDATA%/"
+.vscode/
+.history/
+.ipynb_checkpoints/
