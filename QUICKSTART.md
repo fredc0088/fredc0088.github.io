@@ -57,7 +57,7 @@
 2. Wait for the "Deploy site" workflow to complete (look for a green checkmark, ~4 minutes)
 3. Go to **Settings** → **Pages** → **Build and deployment**
 4. Make sure **Source** is set to **Deploy from a branch**
-5. Set the branch to **gh-pages** (NOT main)
+5. Set the branch to **gh-pages** (NOT master)
 6. Wait for the "pages-build-deployment" workflow to complete (~45 seconds)
 7. Visit `https://your-username.github.io` in your browser
 

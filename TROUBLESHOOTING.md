@@ -13,7 +13,7 @@ This guide covers common issues and their solutions. For more information, see [
     - [Docker build fails](#docker-build-fails)
     - [Ruby dependency issues](#ruby-dependency-issues)
     - [Port already in use](#port-already-in-use)
-  - [Styling &amp; Layout Problems](#styling--layout-problems)
+  - [Styling \& Layout Problems](#styling--layout-problems)
     - [CSS and JS not loading properly](#css-and-js-not-loading-properly)
     - [Site looks broken after deployment](#site-looks-broken-after-deployment)
     - [Theme colors not applying](#theme-colors-not-applying)
@@ -46,7 +46,7 @@ This guide covers common issues and their solutions. For more information, see [
 3. Verify your `_config.yml` has correct `url` and `baseurl`:
    - Personal site: `url: https://username.github.io` and `baseurl:` (empty)
    - Project site: `url: https://username.github.io` and `baseurl: /repo-name/`
-4. Check that you're pushing to the `main` (or `master`) branch, NOT `gh-pages`
+4. Check that you're pushing to the `master` branch, NOT `gh-pages`
 5. Commit and push a small change to trigger redeployment
 
 **For YAML syntax errors:**
