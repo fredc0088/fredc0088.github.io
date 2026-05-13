@@ -3,20 +3,15 @@ cv:
   label: Senior Software Engineer
   email: federicocdev@gmail.com
   location: London, UK
-  image: ""
-  summary: Senior Software Engineer with over seven years of experience architecting high-performance backend systems, specializing in the Scala/JVM ecosystem and functional programming.
-
   social_networks:
     - network: GitHub
       username: fredc0088
     - network: LinkedIn
       username: fcocco
 
-  address:
-    city: London
-    country: United Kingdom
-
   sections:
+    Summary:
+      - Senior Software Engineer with over seven years of experience architecting high-performance backend systems, specializing in the Scala/JVM ecosystem and functional programming.
     Education:
       - institution: Birkbeck College, University of London
         location: London, UK
