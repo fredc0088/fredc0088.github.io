@@ -18,6 +18,7 @@ vendor
 .gemini/
 .superpowers/
 "%APPDATA%/"
+%APPDATA%
 .vscode/
 .history/
 .ipynb_checkpoints/
