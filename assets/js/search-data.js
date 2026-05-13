@@ -7,14 +7,14 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/federicococco.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-projects",
           title: "projects",
           description: "A selection of my professional and personal projects, ranging from distributed systems to NLP tools.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/federicococco.github.io/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -42,13 +42,13 @@ ninja.data = [{
           title: 'Intelligent Documents Organiser Platform',
           description: "A Scala-based NLP desktop application for intelligent document management and text mining.",
           section: "Projects",handler: () => {
-              window.location.href = "/federicococco.github.io/projects/nlp_platform/";
+              window.location.href = "/projects/nlp_platform/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/federicococco.github.io/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -69,7 +69,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/federicococco.github.io/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

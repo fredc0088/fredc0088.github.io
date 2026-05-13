@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fredc0088.github.io/federicococco.github.io/federicococco.github.io/sitemap.xml
+Sitemap: https://fredc0088.github.io/sitemap.xml
