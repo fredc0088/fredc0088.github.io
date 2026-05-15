@@ -6,7 +6,7 @@
   width: 1em;
   min-width: 1em;
   height: 1em;
-  background-image: url("{{ '/assets/img/icon.png' | relative_url }}");
+  background-image: url("../img/icon.png");
   background-size: contain;
   background-repeat: no-repeat;
   vertical-align: middle;
