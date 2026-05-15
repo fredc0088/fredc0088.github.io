@@ -7,3 +7,9 @@ linkedin_username: fcocco
 github_username: fredc0088
 gitlab_username: federico.cocco
 wikipedia_id: Feelingfuzzy
+telegram_username: ProfInhuman
+stackoverflow_id: 12416934
+custom_social:
+  logo: custom-icon-logo # CSS class defined in assets/css/custom_icons.css
+  title: My Custom Social
+  url: https://example.com
