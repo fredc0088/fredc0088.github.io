@@ -125,7 +125,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://example.com", "_blank");
+          window.open("https://calendly.com/federicocdev", "_blank");
         },
       },{
       id: 'light-theme',
