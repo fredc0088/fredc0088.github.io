@@ -121,8 +121,8 @@ ninja.data = [{
           window.open("https://stackoverflow.com/users/12416934", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-calendly',
+        title: 'Calendly',
         section: 'Socials',
         handler: () => {
           window.open("https://calendly.com/federicocdev", "_blank");
