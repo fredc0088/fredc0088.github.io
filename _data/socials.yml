@@ -9,8 +9,7 @@ gitlab_username: federico.cocco
 wikipedia_id: Feelingfuzzy
 telegram_username: ProfInhuman
 stackoverflow_id: 12416934
-custom_social:
-  calendly:
-    logo: custom-icon-calendly
-    title: Calendly
-    url: https://calendly.com/federicocdev
+calendly:
+  logo: custom-icon-calendly
+  title: Calendly
+  url: https://calendly.com/federicocdev
